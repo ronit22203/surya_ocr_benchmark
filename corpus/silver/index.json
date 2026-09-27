@@ -1,0 +1,188 @@
+{
+  "created_at": "2026-09-27T09:43:40.494918+00:00",
+  "count": 26,
+  "records": [
+    {
+      "id": "PMC13514518_p2",
+      "source_pdf": "PMC13514518_p2.pdf",
+      "model": "gpt-4o",
+      "markdown": "PMC13514518_p2.md",
+      "json": "PMC13514518_p2.json"
+    },
+    {
+      "id": "PMC13514518_p3",
+      "source_pdf": "PMC13514518_p3.pdf",
+      "model": "gpt-4o",
+      "markdown": "PMC13514518_p3.md",
+      "json": "PMC13514518_p3.json"
+    },
+    {
+      "id": "PMC13514518_p4",
+      "source_pdf": "PMC13514518_p4.pdf",
+      "model": "gpt-4o",
+      "markdown": "PMC13514518_p4.md",
+      "json": "PMC13514518_p4.json"
+    },
+    {
+      "id": "PMC13539033_p2",
+      "source_pdf": "PMC13539033_p2.pdf",
+      "model": "gpt-4o",
+      "markdown": "PMC13539033_p2.md",
+      "json": "PMC13539033_p2.json"
+    },
+    {
+      "id": "PMC13539033_p3",
+      "source_pdf": "PMC13539033_p3.pdf",
+      "model": "gpt-4o",
+      "markdown": "PMC13539033_p3.md",
+      "json": "PMC13539033_p3.json"
+    },
+    {
+      "id": "PMC13539033_p4",
+      "source_pdf": "PMC13539033_p4.pdf",
+      "model": "gpt-4o",
+      "markdown": "PMC13539033_p4.md",
+      "json": "PMC13539033_p4.json"
+    },
+    {
+      "id": "PMC13541223_p2",
+      "source_pdf": "PMC13541223_p2.pdf",
+      "model": "gpt-4o",
+      "markdown": "PMC13541223_p2.md",
+      "json": "PMC13541223_p2.json"
+    },
+    {
+      "id": "PMC13546315_p2",
+      "source_pdf": "PMC13546315_p2.pdf",
+      "model": "gpt-4o",
+      "markdown": "PMC13546315_p2.md",
+      "json": "PMC13546315_p2.json"
+    },
+    {
+      "id": "PMC13546315_p3",
+      "source_pdf": "PMC13546315_p3.pdf",
+      "model": "gpt-4o",
+      "markdown": "PMC13546315_p3.md",
+      "json": "PMC13546315_p3.json"
+    },
+    {
+      "id": "PMC13546315_p4",
+      "source_pdf": "PMC13546315_p4.pdf",
+      "model": "gpt-4o",
+      "markdown": "PMC13546315_p4.md",
+      "json": "PMC13546315_p4.json"
+    },
+    {
+      "id": "PMC13559776_p2",
+      "source_pdf": "PMC13559776_p2.pdf",
+      "model": "gpt-4o",
+      "markdown": "PMC13559776_p2.md",
+      "json": "PMC13559776_p2.json"
+    },
+    {
+      "id": "PMC13559776_p3",
+      "source_pdf": "PMC13559776_p3.pdf",
+      "model": "gpt-4o",
+      "markdown": "PMC13559776_p3.md",
+      "json": "PMC13559776_p3.json"
+    },
+    {
+      "id": "PMC13559776_p4",
+      "source_pdf": "PMC13559776_p4.pdf",
+      "model": "gpt-4o",
+      "markdown": "PMC13559776_p4.md",
+      "json": "PMC13559776_p4.json"
+    },
+    {
+      "id": "PMC13563123_p2",
+      "source_pdf": "PMC13563123_p2.pdf",
+      "model": "gpt-4o",
+      "markdown": "PMC13563123_p2.md",
+      "json": "PMC13563123_p2.json"
+    },
+    {
+      "id": "PMC13563123_p3",
+      "source_pdf": "PMC13563123_p3.pdf",
+      "model": "gpt-4o",
+      "markdown": "PMC13563123_p3.md",
+      "json": "PMC13563123_p3.json"
+    },
+    {
+      "id": "PMC13563123_p4",
+      "source_pdf": "PMC13563123_p4.pdf",
+      "model": "gpt-4o",
+      "markdown": "PMC13563123_p4.md",
+      "json": "PMC13563123_p4.json"
+    },
+    {
+      "id": "PMC13571631_p2",
+      "source_pdf": "PMC13571631_p2.pdf",
+      "model": "gpt-4o",
+      "markdown": "PMC13571631_p2.md",
+      "json": "PMC13571631_p2.json"
+    },
+    {
+      "id": "PMC13571631_p3",
+      "source_pdf": "PMC13571631_p3.pdf",
+      "model": "gpt-4o",
+      "markdown": "PMC13571631_p3.md",
+      "json": "PMC13571631_p3.json"
+    },
+    {
+      "id": "PMC13571631_p4",
+      "source_pdf": "PMC13571631_p4.pdf",
+      "model": "gpt-4o",
+      "markdown": "PMC13571631_p4.md",
+      "json": "PMC13571631_p4.json"
+    },
+    {
+      "id": "PMC13577180_p2",
+      "source_pdf": "PMC13577180_p2.pdf",
+      "model": "gpt-4o",
+      "markdown": "PMC13577180_p2.md",
+      "json": "PMC13577180_p2.json"
+    },
+    {
+      "id": "PMC13577180_p3",
+      "source_pdf": "PMC13577180_p3.pdf",
+      "model": "gpt-4o",
+      "markdown": "PMC13577180_p3.md",
+      "json": "PMC13577180_p3.json"
+    },
+    {
+      "id": "PMC13577180_p4",
+      "source_pdf": "PMC13577180_p4.pdf",
+      "model": "gpt-4o",
+      "markdown": "PMC13577180_p4.md",
+      "json": "PMC13577180_p4.json"
+    },
+    {
+      "id": "PMC13579097_p2",
+      "source_pdf": "PMC13579097_p2.pdf",
+      "model": "gpt-4o",
+      "markdown": "PMC13579097_p2.md",
+      "json": "PMC13579097_p2.json"
+    },
+    {
+      "id": "PMC13585579_p2",
+      "source_pdf": "PMC13585579_p2.pdf",
+      "model": "gpt-4o",
+      "markdown": "PMC13585579_p2.md",
+      "json": "PMC13585579_p2.json"
+    },
+    {
+      "id": "PMC13585579_p3",
+      "source_pdf": "PMC13585579_p3.pdf",
+      "model": "gpt-4o",
+      "markdown": "PMC13585579_p3.md",
+      "json": "PMC13585579_p3.json"
+    },
+    {
+      "id": "PMC13585579_p4",
+      "source_pdf": "PMC13585579_p4.pdf",
+      "model": "gpt-4o",
+      "markdown": "PMC13585579_p4.md",
+      "json": "PMC13585579_p4.json"
+    }
+  ]
+}

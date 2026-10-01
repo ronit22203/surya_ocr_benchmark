@@ -1,0 +1,411 @@
+{
+  "PMC13585579_p4": [
+    {
+      "blocks": [
+        {
+          "polygon": [
+            [
+              125.452,
+              85.348
+            ],
+            [
+              206.44,
+              85.348
+            ],
+            [
+              206.44,
+              112.30000000000001
+            ],
+            [
+              125.452,
+              112.30000000000001
+            ]
+          ],
+          "confidence": 0.9939423503031904,
+          "label": "PageHeader",
+          "raw_label": "Page-Header",
+          "reading_order": 0,
+          "html": "Liu et al.",
+          "skipped": false,
+          "error": false,
+          "bbox": [
+            125.452,
+            85.348,
+            206.44,
+            112.30000000000001
+          ]
+        },
+        {
+          "polygon": [
+            [
+              1191.0,
+              85.348
+            ],
+            [
+              1475.2520000000002,
+              85.348
+            ],
+            [
+              1475.2520000000002,
+              112.30000000000001
+            ],
+            [
+              1191.0,
+              112.30000000000001
+            ]
+          ],
+          "confidence": 0.9939423503031904,
+          "label": "PageHeader",
+          "raw_label": "Page-Header",
+          "reading_order": 1,
+          "html": "10.3389/fmed.2026.1884399",
+          "skipped": false,
+          "error": false,
+          "bbox": [
+            1191.0,
+            85.348,
+            1475.2520000000002,
+            112.30000000000001
+          ]
+        },
+        {
+          "polygon": [
+            [
+              125.452,
+              199.89399999999998
+            ],
+            [
+              1456.1960000000001,
+              199.89399999999998
+            ],
+            [
+              1456.1960000000001,
+              997.224
+            ],
+            [
+              125.452,
+              997.224
+            ]
+          ],
+          "confidence": 0.9939423503031904,
+          "label": "Figure",
+          "raw_label": "Figure",
+          "reading_order": 2,
+          "html": "",
+          "skipped": true,
+          "error": false,
+          "bbox": [
+            125.452,
+            199.89399999999998,
+            1456.1960000000001,
+            997.224
+          ]
+        },
+        {
+          "polygon": [
+            [
+              125.452,
+              1021.9300000000001
+            ],
+            [
+              617.732,
+              1021.9300000000001
+            ],
+            [
+              617.732,
+              1048.882
+            ],
+            [
+              125.452,
+              1048.882
+            ]
+          ],
+          "confidence": 0.9939423503031904,
+          "label": "Caption",
+          "raw_label": "Caption",
+          "reading_order": 3,
+          "html": "TABLE 1 RoB 2 judgments for the specified result in each included trial.",
+          "skipped": false,
+          "error": false,
+          "bbox": [
+            125.452,
+            1021.9300000000001,
+            617.732,
+            1048.882
+          ]
+        },
+        {
+          "polygon": [
+            [
+              125.452,
+              1062.358
+            ],
+            [
+              1456.1960000000001,
+              1062.358
+            ],
+            [
+              1456.1960000000001,
+              1702.468
+            ],
+            [
+              125.452,
+              1702.468
+            ]
+          ],
+          "confidence": 0.9939423503031904,
+          "label": "Table",
+          "raw_label": "Table",
+          "reading_order": 4,
+          "html": "<table border=\"1\">\n<thead>\n<tr>\n<th>Trial (specified result)</th>\n<th>D1 randomization</th>\n<th>D2 deviations</th>\n<th>D3 missing data</th>\n<th>D4 measurement</th>\n<th>D5 selective reporting</th>\n<th>Overall</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Tongxinluo (mRS 0-1 at 90 d)</td>\n<td>Low</td>\n<td>Low</td>\n<td>Low</td>\n<td>Low</td>\n<td>Low</td>\n<td>Low</td>\n</tr>\n<tr>\n<td>PANDA (mRS 0-2 at 3 mo)</td>\n<td>Low</td>\n<td>Low</td>\n<td>Low</td>\n<td>Low</td>\n<td>Low</td>\n<td>Low</td>\n</tr>\n<tr>\n<td>ANGONG (infarct and edema volume at 14 d)</td>\n<td>Low</td>\n<td>Some concerns</td>\n<td>High</td>\n<td>Low</td>\n<td>Some concerns</td>\n<td>High</td>\n</tr>\n<tr>\n<td>CHIMES (mRS shift at 3 mo)</td>\n<td>Low</td>\n<td>Low</td>\n<td>Some concerns</td>\n<td>Low</td>\n<td>Low</td>\n<td>Some concerns</td>\n</tr>\n<tr>\n<td>Xueshuan Xinmai (NIHSS at 2 wk)</td>\n<td>Some concerns</td>\n<td>Some concerns</td>\n<td>Some concerns</td>\n<td>Low</td>\n<td>High</td>\n<td>High</td>\n</tr>\n<tr>\n<td>Qizhitongluo (FMMS-LL at 12 wk)</td>\n<td>Low</td>\n<td>Low</td>\n<td>Some concerns</td>\n<td>Low</td>\n<td>Some concerns</td>\n<td>Some concerns</td>\n</tr>\n<tr>\n<td>TIERS (Fugl-Meyer at 4 and 8 wk)</td>\n<td>Some concerns</td>\n<td>Some concerns</td>\n<td>Some concerns</td>\n<td>Low</td>\n<td>Some concerns</td>\n<td>Some concerns</td>\n</tr>\n<tr>\n<td>Naoxintong (recurrence at 2 y)</td>\n<td>Low</td>\n<td>Low</td>\n<td>Some concerns</td>\n<td>Low</td>\n<td>Some concerns</td>\n<td>Some concerns</td>\n</tr>\n<tr>\n<td>Dengzhan Shengmai (stroke at 1 y)</td>\n<td>Low</td>\n<td>Low</td>\n<td>Some concerns</td>\n<td>Low</td>\n<td>Some concerns</td>\n<td>Some concerns</td>\n</tr>\n</tbody>\n</table>",
+          "skipped": false,
+          "error": false,
+          "bbox": [
+            125.452,
+            1062.358,
+            1456.1960000000001,
+            1702.468
+          ]
+        },
+        {
+          "polygon": [
+            [
+              125.452,
+              1709.2060000000001
+            ],
+            [
+              1475.2520000000002,
+              1709.2060000000001
+            ],
+            [
+              1475.2520000000002,
+              1783.324
+            ],
+            [
+              125.452,
+              1783.324
+            ]
+          ],
+          "confidence": 0.9939423503031904,
+          "label": "Text",
+          "raw_label": "Text",
+          "reading_order": 5,
+          "html": "<p>Assessments relate to the effect of assignment to the intervention on each trial's primary outcome, or, for Xueshuan Xinmai, on the most clinically relevant reported outcome, since that report designates no primary outcome. Overall judgments follow the RoB 2 algorithm and are never more favorable than the least favorable contributing domain. Domain rationales with supporting source text are in <a href=\"#\">Supplementary Table 2</a>. This table, <a href=\"#\">Figure 1</a> and the GRADE profiles are generated from a single master dataset.</p>",
+          "skipped": false,
+          "error": false,
+          "bbox": [
+            125.452,
+            1709.2060000000001,
+            1475.2520000000002,
+            1783.324
+          ]
+        },
+        {
+          "polygon": [
+            [
+              125.452,
+              1828.244
+            ],
+            [
+              779.708,
+              1828.244
+            ],
+            [
+              779.708,
+              2025.892
+            ],
+            [
+              125.452,
+              2025.892
+            ]
+          ],
+          "confidence": 0.9939423503031904,
+          "label": "Text",
+          "raw_label": "Text",
+          "reading_order": 6,
+          "html": "<p>at different doses and routes, started between 36 h and 6 months after onset, assessed with different primary outcome instruments over 14 days to 24 months. Two trials reporting a binary functional outcome at approximately 3 months do so at different thresholds, mRS 0 to 1 and mRS 0 to 2, which are related but not interchangeable. We note explicitly that seven of the nine trials</p>",
+          "skipped": false,
+          "error": false,
+          "bbox": [
+            125.452,
+            1828.244,
+            779.708,
+            2025.892
+          ]
+        },
+        {
+          "polygon": [
+            [
+              800.352,
+              1828.244
+            ],
+            [
+              1475.2520000000002,
+              1828.244
+            ],
+            [
+              1475.2520000000002,
+              1895.624
+            ],
+            [
+              800.352,
+              1895.624
+            ]
+          ],
+          "confidence": 0.9939423503031904,
+          "label": "Text",
+          "raw_label": "Text",
+          "reading_order": 7,
+          "html": "<p>report a primary outcome with a point estimate and confidence interval, so data availability was not the constraint.</p>",
+          "skipped": false,
+          "error": false,
+          "bbox": [
+            800.352,
+            1828.244,
+            1475.2520000000002,
+            1895.624
+          ]
+        },
+        {
+          "polygon": [
+            [
+              800.352,
+              1893.378
+            ],
+            [
+              1475.2520000000002,
+              1893.378
+            ],
+            [
+              1475.2520000000002,
+              2025.892
+            ],
+            [
+              800.352,
+              2025.892
+            ]
+          ],
+          "confidence": 0.9939423503031904,
+          "label": "Text",
+          "raw_label": "Text",
+          "reading_order": 8,
+          "html": "<p>Synthesis followed SWiM guidance (17). Trials were grouped first by clinical phase, defined by the interval between onset and start of the study intervention together with the trial's stated aim, then by formulation. For each trial we report the analysis</p>",
+          "skipped": false,
+          "error": false,
+          "bbox": [
+            800.352,
+            1893.378,
+            1475.2520000000002,
+            2025.892
+          ]
+        },
+        {
+          "polygon": [
+            [
+              125.452,
+              2120.2239999999997
+            ],
+            [
+              311.248,
+              2120.2239999999997
+            ],
+            [
+              311.248,
+              2153.9139999999998
+            ],
+            [
+              125.452,
+              2153.9139999999998
+            ]
+          ],
+          "confidence": 0.9939423503031904,
+          "label": "PageFooter",
+          "raw_label": "Page-Footer",
+          "reading_order": 9,
+          "html": "Frontiers in Medicine",
+          "skipped": false,
+          "error": false,
+          "bbox": [
+            125.452,
+            2120.2239999999997,
+            311.248,
+            2153.9139999999998
+          ]
+        },
+        {
+          "polygon": [
+            [
+              771.768,
+              2120.2239999999997
+            ],
+            [
+              806.7040000000001,
+              2120.2239999999997
+            ],
+            [
+              806.7040000000001,
+              2153.9139999999998
+            ],
+            [
+              771.768,
+              2153.9139999999998
+            ]
+          ],
+          "confidence": 0.9939423503031904,
+          "label": "PageFooter",
+          "raw_label": "Page-Footer",
+          "reading_order": 10,
+          "html": "04",
+          "skipped": false,
+          "error": false,
+          "bbox": [
+            771.768,
+            2120.2239999999997,
+            806.7040000000001,
+            2153.9139999999998
+          ]
+        },
+        {
+          "polygon": [
+            [
+              1318.04,
+              2120.2239999999997
+            ],
+            [
+              1475.2520000000002,
+              2120.2239999999997
+            ],
+            [
+              1475.2520000000002,
+              2153.9139999999998
+            ],
+            [
+              1318.04,
+              2153.9139999999998
+            ]
+          ],
+          "confidence": 0.9939423503031904,
+          "label": "PageFooter",
+          "raw_label": "Page-Footer",
+          "reading_order": 11,
+          "html": "frontiersin.org",
+          "skipped": false,
+          "error": false,
+          "bbox": [
+            1318.04,
+            2120.2239999999997,
+            1475.2520000000002,
+            2153.9139999999998
+          ]
+        }
+      ],
+      "image_bbox": [
+        0.0,
+        0.0,
+        1588.0,
+        2246.0
+      ],
+      "page": 1
+    }
+  ]
+}

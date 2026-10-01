@@ -8,10 +8,15 @@ wheels/
 
 # Virtual environments
 .venv
+surya-work/.venv-v1/
+surya-work/.venv-v2/
 
 # Temporary Files
-
 temp/
+.DS_Store
 
-# Secrets 
+# Secrets
 .env
+
+# In-tree model / HF caches
+surya-work/.cache/
